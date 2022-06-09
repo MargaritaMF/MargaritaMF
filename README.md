@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MargaritaMF
-- 👀 I’m interested in digital narratives, specialy digital comics.
+- 👀 I’m interested in digital narratives, specially digital comics.
 - 🌱 I’m currently learning to code by myself, so I can fully create my own digital comics.
 - 💞️ I’m looking to collaborate on any interactive digital narrative project.
 - 📫 You can write me to info@2-bd.fr and read my digital comic in www.2-bd.fr
